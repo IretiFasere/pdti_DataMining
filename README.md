@@ -2,7 +2,7 @@
 * [Syllabus](https://github.com/htpeter/pdti_DataMining/blob/master/Course%20Materials/Syllabus.pdf)
 * [Programming Cheat Sheets]()
 
-#### Week 1 : 9/4/17 (Class on 9/6/17)
+#### ~~Week 1 : 9/4/17 (Class on 9/6/17)~~
 
 #### Week 2 "Data Set Selection" : 9/11/17 (Class on 9/13/17)
 
