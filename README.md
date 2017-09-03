@@ -1,8 +1,6 @@
 #### Kouvaris, Freeman, Fasere, McWilliams 2017 Fall Group Hub
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| Useful        | Stuff         | Here  |
+
 
 
 * [Syllabus](https://github.com/htpeter/pdti_DataMining/blob/master/Course%20Materials/Syllabus.pdf)
@@ -25,3 +23,12 @@ Requirements:
 
 
 
+
+
+##### Maintaning ReadMe Code
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| Useful        | Stuff         | Here  |
