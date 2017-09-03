@@ -22,3 +22,5 @@ Requirements:
 ## Completed Weeks
 
 #### ~~Week 1 : 9/4/17 (Class on 9/6/17)~~
+
+* Group Formation
