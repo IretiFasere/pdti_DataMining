@@ -16,6 +16,7 @@ Requirements:
 
 Lab 1 is due at the end of week!
 [Lab 1 Board](https://github.com/htpeter/pdti_DataMining/projects/1)
+
 [Lab 1 Notebook - Our Tangible](https://github.com/htpeter/pdti_DataMining/blob/master/Lab_1/Lab%201%20Notebook.ipynb)
 
 #### Week 4 : 9/18/17 (Class on 9/20/17)
