@@ -1,12 +1,10 @@
 #### Kouvaris, Freeman, Fasere, McWilliams 2017 Fall Group Hub
 
-
-
-
 * [Syllabus](https://github.com/htpeter/pdti_DataMining/blob/master/Course%20Materials/Syllabus.pdf)
 * [Programming Cheat Sheets]()
 
-#### ~~Week 1 : 9/4/17 (Class on 9/6/17)~~
+## Coming Up
+_____________________
 
 #### Week 2 "Data Set Selection" : 9/11/17 (Class on 9/13/17)
 
@@ -22,13 +20,6 @@ Requirements:
 #### Week 5 : 10/02/17 (Class on 10/04/17)
 
 
+## Completed Weeks
 
-
-
-##### Maintaning ReadMe Code
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| Useful        | Stuff         | Here  |
+#### ~~Week 1 : 9/4/17 (Class on 9/6/17)~~
