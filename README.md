@@ -1,5 +1,6 @@
-#### Kouvaris,Freeman,Fasere,McWilliams 2017 Fall Group Hub
-#### [Syllabus](https://github.com/htpeter/pdti_DataMining/blob/master/Course%20Materials/Syllabus.pdf)
+#### Kouvaris, Freeman, Fasere, McWilliams 2017 Fall Group Hub
+* [Syllabus](https://github.com/htpeter/pdti_DataMining/blob/master/Course%20Materials/Syllabus.pdf)
+* [Programming Cheat Sheets]()
 
 #### Week 1 : 9/4/17 (Class on 9/6/17)
 
