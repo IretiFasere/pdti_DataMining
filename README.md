@@ -4,7 +4,6 @@
 * [Programming Cheat Sheets]()
 
 ## Coming Up
-_____________________
 
 #### Week 2 "Data Set Selection" : 9/11/17 (Class on 9/13/17)
 
